@@ -1,0 +1,17 @@
+.input{
+    width: 200px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    border: none;
+    margin-top: 20px;
+
+}
+.mine{
+    color: red;
+}
+.wrapper{
+    background-color: purple;
+}
